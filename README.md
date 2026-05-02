@@ -6,6 +6,8 @@ Ce projet a pour objectif de développer une solution de maintenance
 prédictive à partir de données issues de capteurs industriels. L'analyse
 des métriques permet d'anticiper les pannes machines avant qu'elles ne
 surviennent.
+<img width="982" height="649" alt="image" src="https://github.com/user-attachments/assets/2b751408-26dc-4663-af5d-d0b6ebeae2de" />
+
 
 ## Objectif
 
