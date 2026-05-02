@@ -57,3 +57,36 @@ Les métriques utilisées :
 - Matrice de confusion
 
 ## 📁 Structure du projet
+project/
+│
+├── data/
+│ ├── raw/
+│ └── processed/
+│
+├── notebooks/
+│ └── 01_data_understanding.ipynb
+│
+├── src/
+│ ├── load_data.py
+│ ├── preprocess.py
+│ └── train_model.py
+│
+├── models/
+├── reports/
+├── requirements.txt
+└── README.md
+
+
+
+## 🚀 Technologies utilisées
+- Python
+- Pandas
+- NumPy
+- Matplotlib / Seaborn
+- Scikit-learn
+
+## 💡 Conclusion
+Ce projet montre comment exploiter des données issues de capteurs pour mettre en place une solution de maintenance prédictive. Il met en évidence l’importance de l’analyse exploratoire et de la gestion du déséquilibre des données.
+
+## 👤 Auteur
+Akram
